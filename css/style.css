@@ -99,5 +99,6 @@ figcaption {
 }
 
 .clearfix:after {
+  content:".";
   
 }
